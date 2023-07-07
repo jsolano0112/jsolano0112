@@ -9,7 +9,7 @@
 <br>
 
 <div align='right'>
-  <iframe src="https://giphy.com/embed/SNAb794j53wIUvTFio" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://giphy.com/embed/SNAb794j53wIUvTFio" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 
 </div>
 
