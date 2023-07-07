@@ -7,6 +7,8 @@
   </a>
 </p>
 <br>
+
+
 ### 🙆‍♀️About me
 
 - 🔭 I’m currently working on **backend development**
@@ -14,7 +16,8 @@
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
-- <br>
+  
+<br>
 
 ### 🔧Tech Stack
 
@@ -45,7 +48,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsolano0112&langs_count=4&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
+
 <br>
+
+
 ### 📞Contact with me!!!
 
 -  <a href="https://www.linkedin.com/in/juana-solano-07686b1b0/" target="_blank"> Linkedin ↗</a>
