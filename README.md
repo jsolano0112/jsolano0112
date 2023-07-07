@@ -8,10 +8,10 @@
 </p>
 <br>
 
-<p align='right'>
-  <iframe src="https://giphy.com/embed/SNAb794j53wIUvTFio" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dua-lipa-computadora-canekzapata-SNAb794j53wIUvTFio"></a></p>
+<div align='right'>
+  <iframe src="https://giphy.com/embed/SNAb794j53wIUvTFio" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
-</p>
+</div>
 
 ### 🙆‍♀️About me
 
