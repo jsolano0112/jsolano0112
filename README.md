@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Portafolio%20Web-%23FF69B4.svg?style=for-the-badge&logoColor=white" alt="portfolio"     style="margin-bottom: 5px; background-color: transparent; color: #ffffff; padding: 8px 15px; border-radius: 5px; font-weight: bold;" />
   </a>
 </p>
-
+<br>
 ### 🙆‍♀️About me
 
 - 🔭 I’m currently working on **backend development**
@@ -14,6 +14,7 @@
 - 🌱 I’m currently learning **JavaScript**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
+- <br>
 
 ### 🔧Tech Stack
 
@@ -44,9 +45,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsolano0112&langs_count=4&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
-
-### 📞Contact with me!!!
 <br>
+### 📞Contact with me!!!
 
 -  <a href="https://www.linkedin.com/in/juana-solano-07686b1b0/" target="_blank"> Linkedin ↗</a>
 
