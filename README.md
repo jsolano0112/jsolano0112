@@ -2,7 +2,8 @@
 <p align='center'>
   Ing. de Software
   <a href="https://juanawebsite.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portafolio%20Web-%23FF69B4.svg?style=for-the-badge&logoColor=white" alt="portfolio"     style="margin-bottom: 5px; background-color: #FF69B4; color: #ffffff; padding: 8px 15px; border-radius: 5px; font-weight: bold;" />
+    <br>
+  <img src="https://img.shields.io/badge/Portafolio%20Web-%23FF69B4.svg?style=for-the-badge&logoColor=white" alt="portfolio"     style="margin-bottom: 5px; background-color: transparent; color: #ffffff; padding: 8px 15px; border-radius: 5px; font-weight: bold;" />
   </a>
 </p>
 
