@@ -3,7 +3,7 @@
   Ing. de Software
 </p>
 
-## 🙆‍♀️About me
+### 🙆‍♀️About me
 
 - 🔭 I’m currently working on **backend development**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-## Tech Stack
+### Tech Stack
 
 <p>
 <div align="left">
@@ -40,3 +40,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsolano0112&langs_count=4&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
+
+<details><summary>Contact with me!!!</summary>
+<p>
+
+#### We can hide anything, even code!
+
+
+
+</p>
+</details>
