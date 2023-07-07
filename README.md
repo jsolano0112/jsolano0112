@@ -11,7 +11,7 @@
 <div>
   
   <div align='right'>
-    <iframe src="https://giphy.com/embed/W4IY7zQdRh7Ow" width="480" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/apple-marceline-W4IY7zQdRh7Ow">via GIPHY</a></p>
+    <div class="tenor-gif-embed" data-postid="16596559" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/code-coding-programming-computer-science-programming-language-gif-16596559">Code Coding GIF</a>from <a href="https://tenor.com/search/code-gifs">Code GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
   
   </div>
   
