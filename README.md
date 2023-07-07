@@ -15,7 +15,7 @@
   ![giphy](https://github.com/jsolano0112/jsolano0112/assets/90517708/c272700c-8a87-4b87-aa8b-b63dc2ba76a7)
 
   </div>
-   <div align='left'>
+   <p align='left'>
   
   ### 🙆‍♀️About me
   
@@ -26,7 +26,9 @@
   - 👯 I’m looking to collaborate on **front-end and back-end projects**
     
   <br>
-  </div>
+  
+  </p>
+  
 </div>
   
   ### 🔧Tech Stack
@@ -36,15 +38,15 @@
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
-    <br>
+  <br>
      
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
     
-    <br>
+  <br>
     
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
     
     <br>
