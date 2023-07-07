@@ -1,6 +1,9 @@
 <h2 align="center">Hey you, I'm Juana 😝</h2>
 <p align='center'>
   Ing. de Software
+  <a href="https://juanawebsite.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portafolio%20Web-%23FF69B4.svg?style=for-the-badge&logoColor=white" alt="portfolio"     style="margin-bottom: 5px; background-color: #FF69B4; color: #ffffff; padding: 8px 15px; border-radius: 5px; font-weight: bold;" />
+  </a>
 </p>
 
 ### 🙆‍♀️About me
@@ -11,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
-### Tech Stack
+### 🔧Tech Stack
 
 <p>
 <div align="left">
@@ -41,12 +44,12 @@
 
 </p>
 
-<details><summary>Contact with me!!!</summary>
-<p>
+### 📞Contact with me!!!
 
-#### We can hide anything, even code!
-
-
-
-</p>
-</details>
+  <a href="https://www.linkedin.com/in/juana-solano-07686b1b0/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  
+  <a href="https://www.instagram.com/ssssshhv/" target="_blank">
+  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>  
