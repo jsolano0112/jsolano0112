@@ -15,6 +15,7 @@
   ![giphy](https://github.com/jsolano0112/jsolano0112/assets/90517708/c272700c-8a87-4b87-aa8b-b63dc2ba76a7)
 
   </div>
+   <div align='left'>
   
   ### 🙆‍♀️About me
   
@@ -25,6 +26,8 @@
   - 👯 I’m looking to collaborate on **front-end and back-end projects**
     
   <br>
+  </div>
+</div>
   
   ### 🔧Tech Stack
   
@@ -68,4 +71,3 @@
 
 -  <a href="https://www.instagram.com/ssssshhv/" target="_blank"> Instagram ↗ </a>
 
-</div>
