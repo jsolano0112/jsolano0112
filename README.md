@@ -66,9 +66,9 @@
 <div align='right'>
     ### 📞Contact with me!!!
 
--  <a href="https://www.linkedin.com/in/juana-solano-07686b1b0/" target="_blank"> Linkedin ↗</a>
+◾ <a href="https://www.linkedin.com/in/juana-solano-07686b1b0/" target="_blank"> Linkedin ↗</a>
 
--  <a href="https://www.instagram.com/ssssshhv/" target="_blank"> Instagram ↗ </a>
+◾ <a href="https://www.instagram.com/ssssshhv/" target="_blank"> Instagram ↗ </a>
 </div>
 
   </div>
