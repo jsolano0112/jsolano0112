@@ -56,19 +56,24 @@
  
     
   </div>
-  
-  <p align= 'center'>
+  <div>
+    <p align= 'left'>
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsolano0112&langs_count=4&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
+    </p>
 
-<br>
-
-
-### 📞Contact with me!!!
+<div align='right'>
+    ### 📞Contact with me!!!
 
 -  <a href="https://www.linkedin.com/in/juana-solano-07686b1b0/" target="_blank"> Linkedin ↗</a>
 
 -  <a href="https://www.instagram.com/ssssshhv/" target="_blank"> Instagram ↗ </a>
+</div>
+
+  </div>
+  
+
+
+
 
