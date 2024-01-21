@@ -1,9 +1,8 @@
 <h2 align="center">Hey you, I'm Juana 😝</h2>
 <p align='center'>
-  Eng. Software 
   <a href="https://juanawebsite.vercel.app/" target="_blank">
     <br>
-  <img src="https://img.shields.io/badge/Portafolio%20Web-%23FF69B4.svg?style=for-the-badge&logoColor=white" alt="portfolio"     style="margin-bottom: 5px; background-color: black; color: #ffffff; padding: 8px 15px; border-radius: 5px; font-weight: bold;" />
+  <img src="https://img.shields.io/badge/Portfolio%20Web-%23FF69B4.svg?style=for-the-badge&logoColor=white" alt="portfolio"     style="margin-bottom: 5px; background-color: black; color: #ffffff; padding: 8px 15px; border-radius: 5px; font-weight: bold;" />
   </a>
 </p>
 <br>
