@@ -15,16 +15,7 @@
   </div>
    <p align='left'>
   
-  ### 🙆‍♀️About me
-  
-  - 🔭 I’m currently working on **backend development**
-  
-  - 🌱 I’m currently learning **Angular**
-  
-  - 👯 I’m looking to collaborate on **front-end and back-end projects**
-    
-  <br>
-  
+
   </p>
   
 </div>
